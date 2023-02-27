@@ -1,0 +1,10 @@
+ Volume in drive C is PC COE
+ Volume Serial Number is E240-8387
+
+ Directory of C:\GitProjects
+
+27-02-2023  12:31    <DIR>          .
+27-02-2023  12:31    <DIR>          ..
+27-02-2023  12:31                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  170,964,873,216 bytes free
